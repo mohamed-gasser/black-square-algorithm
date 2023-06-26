@@ -11,4 +11,7 @@ The rest of the cells in the K-th column are white
 
 ![photo](https://github.com/mohamed-gasser/black-square-algorithm/assets/102036714/9c171af5-241e-404b-99a5-062201eac8ed)
 
+Contact
+You can communicate by following e-mails If you have more questions about the project:
 
+o mohamedgasser230@gmail.com
