@@ -1,1 +1,11 @@
 # black-square-algorithm
+
+You are given an N × N matrix in which every cell is colored black or white. 
+Columns are numbered from 0 to N-1 (from left to right). This coloring is represented by a non-empty array of integers A. 
+If the K-th number in the array is equal to X then the X lowest cells in the K-th column of the matrix are black. 
+The rest of the cells in the K-th column are white
+
+### Examples:
+1. Given A = [1, 2, 5, 3, 1, 3],  the function should return 2.
+2. For example, the black square of side 2 contains the two lowest rows of the 1st and 2nd columns (counting from 0).
+
